@@ -1,0 +1,13 @@
+ab_tf1_rg1 = "resourcegrouptohold"
+ab_tf1_lc1 = "West Central US"
+ab_tf1_sa1 = "storageaccountremote111"
+ab_tf1_sc1 = "storagecontainer111"
+ab_tf1_rg2 = "secondresourcegroup"
+ab_tf1_vn1 = "virtualnetaz"
+ab_tf1_vnaddsp1 = ["10.0.0.0/16"]
+ab_tf1_sn1 = "azsubnet1"
+ab_tf1_snaddp1 = ["10.0.1.0/24"]
+ab_tf1_nic1 = "networkc1"
+ab_tf1_user = "adminuser"
+ab_tf1_pass = "P@$$w0rd1234!"
+ab_tf1_vm1 = "vmone1"
